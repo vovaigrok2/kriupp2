@@ -1,0 +1,9 @@
+C:\Users\Vova\source\repos\kriupp2\kriupp2\bin\Debug\kriupp2.exe.config
+C:\Users\Vova\source\repos\kriupp2\kriupp2\bin\Debug\kriupp2.exe
+C:\Users\Vova\source\repos\kriupp2\kriupp2\bin\Debug\kriupp2.pdb
+C:\Users\Vova\source\repos\kriupp2\kriupp2\obj\Debug\kriupp2.csproj.AssemblyReference.cache
+C:\Users\Vova\source\repos\kriupp2\kriupp2\obj\Debug\SimpleCalculator.Form1.resources
+C:\Users\Vova\source\repos\kriupp2\kriupp2\obj\Debug\kriupp2.csproj.GenerateResource.cache
+C:\Users\Vova\source\repos\kriupp2\kriupp2\obj\Debug\kriupp2.csproj.CoreCompileInputs.cache
+C:\Users\Vova\source\repos\kriupp2\kriupp2\obj\Debug\kriupp2.exe
+C:\Users\Vova\source\repos\kriupp2\kriupp2\obj\Debug\kriupp2.pdb
